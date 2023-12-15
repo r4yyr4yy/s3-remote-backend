@@ -4,4 +4,4 @@
 
 Refer to my blog for the walkthrough:
 
-[Getting started with automation in AWS using Ansible and Terraform](https://medium.com/aws-tip/getting-started-with-automation-in-aws-using-ansible-and-terraform-c4679f070e5a)
+[Getting started with automation in AWS Part2: s3 remote backend](https://medium.com/@oraymond49/getting-started-with-automation-in-aws-part-2-s3-remote-backend-e57bc232b642)
